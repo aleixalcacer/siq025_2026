@@ -1,3 +1,7 @@
 # SIQ025 2025/2026
 
-Este projecte és de l'assignatura SIQ025. 
+Jo sóc Aleix Alcacer Sales, professor de l'assignatura SIQ025.
+
+No se que posar més.
+
+Suficient. 
